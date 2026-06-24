@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo Theme Stack</title><link>https://demo.stack.cai.im/ja/</link><description>Recent content on Hugo Theme Stack</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.stack.cai.im/ja/index.xml" rel="self" type="application/rss+xml"/><item><title>このサイトについて</title><link>https://demo.stack.cai.im/ja/%E3%81%93%E3%81%AE%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</link><pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate><guid>https://demo.stack.cai.im/ja/%E3%81%93%E3%81%AE%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</guid><description>&lt;h2 id="誰のためのページですか"&gt;誰のためのページですか？
+&lt;/h2&gt;&lt;p&gt;これは&lt;strong&gt;サンプル詳細&lt;/strong&gt;ページです。あなた自身、あなたのブログ、またはあなたのプロジェクトを紹介するために使用できます。&lt;/p&gt;
+&lt;h2 id="著者について"&gt;著者について
+&lt;/h2&gt;&lt;p&gt;こんにちは！私はブログとオープンソースに情熱を注いでいる愛好家です。新しい技術を探索し、その経験をコミュニティと共有することが大好きです。&lt;/p&gt;
+&lt;h3 id="私の歩み"&gt;私の歩み
+&lt;/h3&gt;&lt;p&gt;10年以上前にWeb開発の旅を始めました。それ以来、個人のブログから大規模なエンタープライズアプリケーションまで、数多くのプロジェクトに携わってきました。&lt;/p&gt;
+&lt;h3 id="スキル"&gt;スキル
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;フロントエンド&lt;/strong&gt;: HTML, CSS, JavaScript, React, Vue&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;バックエンド&lt;/strong&gt;: Node.js, Python, Go&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ツール&lt;/strong&gt;: Git, Docker, Hugo, Neovim&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="お問い合わせ"&gt;お問い合わせ
+&lt;/h2&gt;&lt;p&gt;質問がある場合や、単にあいさつをしたい場合は、お気軽にご連絡ください！&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;メール&lt;/strong&gt;: &lt;a class="link" href="mailto:hello@example.com" &gt;hello@example.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Twitter&lt;/strong&gt;: &lt;a class="link" href="https://twitter.com/example" target="_blank" rel="noopener"
+&gt;@example&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt;: &lt;a class="link" href="https://github.com/example" target="_blank" rel="noopener"
+&gt;example&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Logic will get you from A to B. Imagination will take you everywhere.&amp;rdquo;&lt;br&gt;
+— &lt;em&gt;Albert Einstein&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;このページは AI によって生成されました。&lt;/em&gt;&lt;/p&gt;</description></item><item><title>ショートコード</title><link>https://demo.stack.cai.im/ja/p/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%B3%E3%83%BC%E3%83%89/</link><pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate><guid>https://demo.stack.cai.im/ja/p/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%B3%E3%83%BC%E3%83%89/</guid><description>&lt;p&gt;Stack テーマには、コンテンツを強化するためのカスタムショートコードがいくつか用意されています。&lt;/p&gt;
+&lt;h2 id="引用-quote"&gt;引用 (Quote)
+&lt;/h2&gt;&lt;p&gt;&lt;code&gt;quote&lt;/code&gt; ショートコードを使用すると、著者、出典、URL を含む引用を表示できます。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;&lt;span class="cite"&gt;&lt;span&gt;― &lt;/span&gt;&lt;span&gt;有名な人, &lt;/span&gt;&lt;a href="https://ja.wikipedia.org/wiki/Book"&gt;&lt;cite&gt;彼らが書いた本&lt;/cite&gt;&lt;/a&gt;&lt;/span&gt;&lt;/blockquote&gt;
+&lt;h3 id="使い方"&gt;使い方
+&lt;/h3&gt;&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-markdown" data-lang="markdown"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;{{&amp;lt; quote author=&amp;#34;著者名&amp;#34; source=&amp;#34;出典タイトル&amp;#34; url=&amp;#34;https://example.com&amp;#34; &amp;gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;ここに引用内容を入力します。
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;{{&amp;lt; /quote &amp;gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id="ビデオ-video"&gt;ビデオ (Video)
+&lt;/h2&gt;&lt;p&gt;&lt;code&gt;video&lt;/code&gt; ショートコードを使用すると、セルフホストまたはリモートのビデオファイルを埋め込むことができます。&lt;/p&gt;
+&lt;div class="video-wrapper"&gt;
+&lt;video
+controls
+src="https://www.w3schools.com/html/mov_bbb.mp4"
+&gt;
+&lt;p&gt;
+Your browser doesn't support HTML5 video. Here is a
+&lt;a href="https://www.w3schools.com/html/mov_bbb.mp4"&gt;link to the video&lt;/a&gt; instead.
+&lt;/p&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;h3 id="使い方-1"&gt;使い方
+&lt;/h3&gt;&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-markdown" data-lang="markdown"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;{{&amp;lt; video src=&amp;#34;https://example.com/video.mp4&amp;#34; &amp;gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id="bilibili"&gt;Bilibili
+&lt;/h2&gt;&lt;p&gt;Bilibili からビデオを埋め込みます。&lt;code&gt;av&lt;/code&gt; および &lt;code&gt;bv&lt;/code&gt; ID の両方をサポートしています。&lt;/p&gt;
+&lt;div class="video-wrapper"&gt;
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1634y1t7xR"
+scrolling="no"
+frameborder="no"
+framespacing="0"
+allowfullscreen="true"
+&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;h3 id="使い方-2"&gt;使い方
+&lt;/h3&gt;&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-markdown" data-lang="markdown"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;{{&amp;lt; bilibili &amp;#34;BV1634y1t7xR&amp;#34; &amp;gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id="youtube"&gt;YouTube
+&lt;/h2&gt;&lt;p&gt;Hugo 内蔵の YouTube ショートコードです。&lt;/p&gt;
+&lt;div class="video-wrapper"&gt;
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/ZJthWmvUzzc"
+allowfullscreen
+title="YouTube Video"
+&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;h3 id="使い方-3"&gt;使い方
+&lt;/h3&gt;&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-markdown" data-lang="markdown"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;{{&amp;lt; youtube ZJthWmvUzzc &amp;gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id="騰訊視頻-tencent-video"&gt;騰訊視頻 (Tencent Video)
+&lt;/h2&gt;&lt;p&gt;Tencent Video からビデオを埋め込みます。&lt;/p&gt;
+&lt;div class="video-wrapper"&gt;
+&lt;iframe src="https://v.qq.com/txp/iframe/player.html?vid=u00306ng962&amp;auto=0"
+scrolling="no"
+frameborder="no"
+framespacing="0"
+allowfullscreen="true"
+&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;h3 id="使い方-4"&gt;使い方
+&lt;/h3&gt;&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-markdown" data-lang="markdown"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;{{&amp;lt; tencent &amp;#34;u00306ng962&amp;#34; &amp;gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id="gitlab-snippet"&gt;GitLab Snippet
+&lt;/h2&gt;&lt;p&gt;GitLab からスニペットを埋め込みます。&lt;/p&gt;
+&lt;script
+type="application/javascript"
+src="https://gitlab.com/-/snippets/2349278.js"
+&gt;&lt;/script&gt;
+&lt;h3 id="使い方-5"&gt;使い方
+&lt;/h3&gt;&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-markdown" data-lang="markdown"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;{{&amp;lt; gitlab 2349278 &amp;gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id="図表-diagrams"&gt;図表 (Diagrams)
+&lt;/h2&gt;&lt;p&gt;Stack は &lt;a class="link" href="https://mermaid.js.org/" target="_blank" rel="noopener"
+&gt;Mermaid&lt;/a&gt; 図表を標準でサポートしています。&lt;/p&gt;
+&lt;pre class="mermaid"&gt;
+graph TD;
+A--&amp;gt;B;
+A--&amp;gt;C;
+B--&amp;gt;D;
+C--&amp;gt;D;
+&lt;/pre&gt;
+&lt;h3 id="使い方-6"&gt;使い方
+&lt;/h3&gt;&lt;p&gt;Mermaid コードを、言語を &lt;code&gt;mermaid&lt;/code&gt; に設定したコードブロックで囲みます。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+graph TD;
+A--&gt;B;
+A--&gt;C;
+B--&gt;D;
+C--&gt;D;
+```&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>写真ギャラリー</title><link>https://demo.stack.cai.im/ja/p/image-gallery/</link><pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate><guid>https://demo.stack.cai.im/ja/p/image-gallery/</guid><description>&lt;img src="https://demo.stack.cai.im/p/image-gallery/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post 写真ギャラリー" /&gt;&lt;p&gt;Stack テーマには、写真ギャラリー機能が内蔵されています。複数の画像を並べて配置するだけで、美しいギャラリーを作成できます。&lt;/p&gt;
+&lt;h2 id="ギャラリーの例"&gt;ギャラリーの例
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://demo.stack.cai.im/p/image-gallery/florian-klauer-nptLmg6jqDo-unsplash.jpg"
+width="667"
+height="1000"
+srcset="https://demo.stack.cai.im/p/image-gallery/florian-klauer-nptLmg6jqDo-unsplash_hu_7b8a06820e6d5c.jpg 480w, https://demo.stack.cai.im/p/image-gallery/florian-klauer-nptLmg6jqDo-unsplash_hu_a347f10e565b40ff.jpg 1024w"
+loading="lazy"
+alt="Photo by Florian Klauer on Unsplash"
+class="gallery-image"
+data-flex-grow="66"
+data-flex-basis="160px"
+&gt; &lt;img src="https://demo.stack.cai.im/p/image-gallery/luca-bravo-alS7ewQ41M8-unsplash.jpg"
+width="1000"
+height="667"
+srcset="https://demo.stack.cai.im/p/image-gallery/luca-bravo-alS7ewQ41M8-unsplash_hu_258fc4da0cfc7de9.jpg 480w, https://demo.stack.cai.im/p/image-gallery/luca-bravo-alS7ewQ41M8-unsplash_hu_d415bcea096fe061.jpg 1024w"
+loading="lazy"
+alt="Photo by Luca Bravo on Unsplash"
+class="gallery-image"
+data-flex-grow="149"
+data-flex-basis="359px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://demo.stack.cai.im/p/image-gallery/helena-hertz-wWZzXlDpMog-unsplash.jpg"
+width="1000"
+height="750"
+srcset="https://demo.stack.cai.im/p/image-gallery/helena-hertz-wWZzXlDpMog-unsplash_hu_dfbb0c559c3df461.jpg 480w, https://demo.stack.cai.im/p/image-gallery/helena-hertz-wWZzXlDpMog-unsplash_hu_212d0718b8e99eaa.jpg 1024w"
+loading="lazy"
+alt="Photo by Helena Hertz on Unsplash"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt; &lt;img src="https://demo.stack.cai.im/p/image-gallery/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg"
+width="667"
+height="1000"
+srcset="https://demo.stack.cai.im/p/image-gallery/hudai-gayiran-3Od_VKcDEAA-unsplash_hu_41819e288bf4a8c0.jpg 480w, https://demo.stack.cai.im/p/image-gallery/hudai-gayiran-3Od_VKcDEAA-unsplash_hu_1277885c87f69490.jpg 1024w"
+loading="lazy"
+alt="Photo by Hudai Gayiran on Unsplash"
+class="gallery-image"
+data-flex-grow="66"
+data-flex-basis="160px"
+&gt;&lt;/p&gt;
+&lt;h2 id="仕組み"&gt;仕組み
+&lt;/h2&gt;&lt;p&gt;ギャラリーは &lt;strong&gt;Photoswipe&lt;/strong&gt; と独自の内部スクリプトによって動作します。画像の縦横比に基づいて、最適なレイアウトが自動的に計算されます。&lt;/p&gt;
+&lt;p&gt;ギャラリーを作成するには、同じ行（または同じ段落）に複数の画像を配置するだけです。&lt;/p&gt;
+&lt;h3 id="構文"&gt;構文
+&lt;/h3&gt;&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-markdown" data-lang="markdown"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;![&lt;span class="nt"&gt;画像 1&lt;/span&gt;](&lt;span class="na"&gt;image1.jpg&lt;/span&gt;) ![&lt;span class="nt"&gt;画像 2&lt;/span&gt;](&lt;span class="na"&gt;image2.jpg&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;![&lt;span class="nt"&gt;画像 3&lt;/span&gt;](&lt;span class="na"&gt;image3.jpg&lt;/span&gt;) ![&lt;span class="nt"&gt;画像 4&lt;/span&gt;](&lt;span class="na"&gt;image4.jpg&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;注意&lt;/strong&gt;: Markdown で画像が同じ行に保持されるように、画像の間には 2 つのスペースを入れる必要があります。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;ギャラリーの構文は &lt;a class="link" href="https://typlog.com/" target="_blank" rel="noopener"
+&gt;Typlog&lt;/a&gt; にインスパイアされています。&lt;/p&gt;</description></item><item><title>アーカイブ</title><link>https://demo.stack.cai.im/ja/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://demo.stack.cai.im/ja/archives/</guid><description/></item><item><title>リンク</title><link>https://demo.stack.cai.im/ja/%E3%83%AA%E3%83%B3%E3%82%AF/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://demo.stack.cai.im/ja/%E3%83%AA%E3%83%B3%E3%82%AF/</guid><description>&lt;p&gt;この機能を使用するには、フロントマターに &lt;code&gt;links&lt;/code&gt; セクションを追加します。&lt;/p&gt;
+&lt;p&gt;このページのフロントマター：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;span class="lnt"&gt;8
+&lt;/span&gt;&lt;span class="lnt"&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-yaml" data-lang="yaml"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="nt"&gt;links&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;- &lt;span class="nt"&gt;title&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;GitHub&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;description&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;GitHubは、世界最大のソフトウェア開発プラットフォームです。&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;website&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;https://github.com&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;image&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;- &lt;span class="nt"&gt;title&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;TypeScript&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;description&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;TypeScriptは、JavaScriptの静的型付けされたスーパーセットで、純粋なJavaScriptにコンパイルされます。&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;website&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;https://www.typescriptlang.org&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;image&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;ts-logo-128.jpg&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; フィールドは、ローカル画像と外部画像の両方を受け入れます。&lt;/p&gt;</description></item><item><title>検索</title><link>https://demo.stack.cai.im/ja/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://demo.stack.cai.im/ja/search/</guid><description/></item></channel></rss>
